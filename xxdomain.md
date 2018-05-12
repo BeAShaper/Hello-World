@@ -12,3 +12,5 @@ Google翻译手机应用是谷歌公司提供一项免费的翻译服务app，�
 * 语音输入
 * 手写输入
 
+< img src="https://github.com/BeAShaper/Hello-World/blob/master/3.png">
+
